@@ -1,0 +1,120 @@
+{
+    "addresses": [
+      {
+        "place": "Iola",
+        "latlong": {
+          "lat": 40.730829,
+          "long": -73.989609
+
+        }
+      },
+      {
+        "place": "Charco",
+        "latlong": {
+          "lat": 40.737829,
+          "long": -73.980609
+
+        }
+      },
+      {
+        "place": "Riviera",
+        "latlong": {
+          "lat": 40.731000,
+          "long": -73.981000
+
+        }
+      },
+      {
+        "place": "Boling",
+        "latlong": {
+          "lat": 40.651900,
+          "long": -73.950393
+        }
+      },
+      {
+        "place": "Groveville",
+        "latlong": {
+          "lat": 40.691900,
+          "long": -73.959393
+        }
+      },
+      {
+        "place": "Floris",
+        "latlong": {
+          "lat": 40.681900,
+          "long": -73.939393
+        }
+      },
+      {
+        "place": "Homeworth",
+        "latlong": {
+          "lat": 40.673300,
+          "long": -73.982603
+        }
+      },
+      {
+        "place": "Ilchester",
+        "latlong": {
+          "lat": 40.740143,
+          "long": -73.975414
+        }
+      },
+      {
+        "place": "Edmund",
+        "latlong": {
+          "lat": 40.730143,
+          "long": -73.973414
+        }
+      },
+      {
+        "place": "Bridgetown",
+        "latlong": {
+          "lat": 40.735143,
+          "long": -73.970424
+        }
+      },
+      {
+        "place": "Winfred",
+        "latlong": {
+          "lat": 40.690143,
+          "long": -73.990333
+        }
+      },
+      {
+        "place": "Kidder",
+        "latlong": {
+          "lat": 40.700143,
+          "long": -73.986533
+        }
+      },
+      {
+        "place": "Rosedale",
+        "latlong": {
+          "lat": 40.709143,
+          "long": -73.970533
+        }
+      },
+      {
+        "place": "Hendersonville",
+        "latlong": {
+          "lat": 40.739143,
+          "long": -73.960333
+        }
+      },
+      {
+        "place": "Wakulla",
+        "latlong": {
+          "lat": 40.726751,
+          "long": -73.964530
+        }
+      },
+      {
+        "place": "Valmy",
+        "latlong": {
+          "lat": 40.730143,
+          "long": -73.990412
+        }
+      }
+    ]
+}
+    
